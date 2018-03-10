@@ -1,0 +1,126 @@
+---
+title: Schedule
+---
+
+<div class="limit limit--top-margin">
+
+  {% include schedule/intro.html date='15 Marzo' %}
+
+  <div class="schedule" data-dates="3-17">
+    <table class="schedule__table">
+      <thead>
+        {% include schedule/header.html tracks='1' %}
+      </thead>
+      <tbody>
+        {% include schedule/event.html time='9.00-9.25' title='Check-in' fill='true' %}
+        {% include schedule/event.html time='9.25-9.35' title='Presentazione GrUSP' fill='true' %}
+
+        {% include schedule/talk.html time='9.40-10.10' title='Media Queries Next Level'  fill='true' %}
+        {% include schedule/talk.html time='10.15-10.45' title='Modifichiamo le nostre SVG grazie ai CSS'  fill='true' %}
+
+        {% include schedule/pause.html time='10.45-11.00' title='Short break' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='Layout Saga - in the web application era' time='11.00-11.30' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title="'arduino-sass' - Custom SASS framework, dal design all'implementazione" time='11.35-12.05' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Super fast transitions' time='12.10-12.40' fill='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='12.40-14.00' title='Lunch' icon="food" fill='true' offerto='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='Come Javascript ha cambiato il CSS' time='14.00-14.30' fill='true'  %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title="Incapsulamento e theming: le nuove frontiere dell'ultima sfida CSS" time='14.35-15.25' fill='true'  %}
+        </tr>
+
+        {% include schedule/pause.html time='15.30-15.45' title='Coffee break' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='Web font mania – nel bene e nel male' time='15.45-16.15' fill='true'  %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Uno stile per ogni occasione' time='16.20-17.10' fill='true' keynote='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='17.10-17.20' title='Saluti e ringraziamenti' icon="bar" fill='true' %}
+
+      </tbody>
+    </table>
+  </div>
+
+  <div class="schedule schedule--mobile" data-dates="3-17">
+    <table class="schedule__table">
+      <thead>
+        {% include schedule/header.html track='1' %}
+      </thead>
+      <tbody>
+        {% include schedule/event.html time='9.00-9.25' title='Check-in' fill='true' %}
+        {% include schedule/event.html time='9.25-9.35' title='Presentazione GrUSP' fill='true' %}
+
+        {% include schedule/talk.html time='9.40-10.10' title='Media Queries Next Level'  fill='true' %}
+        {% include schedule/talk.html time='10.15-10.45' title='Modifichiamo le nostre SVG grazie ai CSS'  fill='true' %}
+
+        {% include schedule/pause.html time='10.45-11.00' title='Short break' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='Layout Saga - in the web application era' time='11.00-11.30' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title="'arduino-sass' - Custom SASS framework, dal design all'implementazione" time='11.35-12.05' fill='true' %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Super fast transitions' time='12.10-12.40' fill='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='12.40-14.00' title='Lunch' icon="food" fill='true' offerto='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='Come Javascript ha cambiato il CSS' time='14.00-14.30' fill='true'  %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title="Incapsulamento e theming: le nuove frontiere dell'ultima sfida CSS" time='14.35-15.25' fill='true'  %}
+        </tr>
+
+        {% include schedule/pause.html time='15.30-15.45' title='Coffee break' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html title='Web font mania – nel bene e nel male' time='15.45-16.15' fill='true'  %}
+        </tr>
+
+        <tr>
+          {% include schedule/talk.html title='Uno stile per ogni occasione' time='16.20-17.10' fill='true' keynote='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='17.10-17.20' title='Saluti e ringraziamenti' icon="bar" fill='true' %}
+      </tbody>
+    </table>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+{% include index/newsletter.html %}
+{% include index/sponsors.html %}

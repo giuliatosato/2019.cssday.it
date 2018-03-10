@@ -1,0 +1,13 @@
+# place images in:
+# img/conf-name/speaker/file.jpg
+call_for_paper_url: https://goo.gl/forms/RkHT6PaKrs4kWYu32
+call_for_paper: false
+show_speakers: false
+list:
+#  -
+#    id: Massimo-Artizzu
+#    description:
+#    image: artizzu.jpg
+#    first_name: Massimo
+#    last_name: 	Artizzu
+#    twitter: MaxArt2501

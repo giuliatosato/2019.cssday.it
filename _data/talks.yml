@@ -1,0 +1,6 @@
+#-
+#  speaker_id: Massimo-Artizzu
+#  title: Griglie CSS - il futuro prossimo del layout
+#  keynote: false
+#  extract: >
+#    Siamo partiti dalle tabelle. Abbiamo arrancato coi float. Stiamo respirando con flexbox. Ma per i nostri layout in CSS alle porte ci sono le griglie, abilitate di default in Chrome e Firefox da marzo 2017. Vedremo cosa ci riserva uno dei moduli CSS più sofisticati e flessibili di sempre, che promette di risolvere tutti i (o buona parte dei) nostri problemi di layout. Partendo da una panoramica generale delle funzionalità, vedremo qualche esempio, come affrontare il problema del fallback e del supporto a vecchie specifiche (IE, Edge), e gli strumenti per uno sviluppo semplice.
