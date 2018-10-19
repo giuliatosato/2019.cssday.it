@@ -1,7 +1,7 @@
 # place images in:
 # img/conf-name/speaker/file.jpg
-call_for_paper_url: https://goo.gl/forms/RkHT6PaKrs4kWYu32
-call_for_paper: false
+call_for_paper_url: https://goo.gl/forms/c9FuRiQNmyw84pXm1
+call_for_paper: true
 show_speakers: false
 list:
 #  -
