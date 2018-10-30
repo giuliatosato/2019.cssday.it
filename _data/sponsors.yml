@@ -18,9 +18,7 @@ main:
     - Banchetto principale 2m x 1m in sala o nella hall
   max: 1
   list:
-    -
-      url: http://www.ideato.it
-      image: ideato.svg
+
 
 platinum:
   price: € 3,000
@@ -33,6 +31,9 @@ platinum:
     - Banchetto 1m x 1m in sala o nella hall
   max: 2
   list:
+    -
+      url: http://www.ideato.it
+      image: ideato.svg
 
 gold:
   price: € 1,000
