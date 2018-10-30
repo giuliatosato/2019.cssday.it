@@ -7,5 +7,5 @@ year: 2019
 since: 2015
 show_talks: false
 show_schedule: false
-show_workshop: false
+show_workshop: true
 googletagmanager: UA-111695734-1
