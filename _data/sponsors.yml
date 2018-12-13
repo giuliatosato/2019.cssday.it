@@ -8,14 +8,17 @@ call_for_sponsor: true
 main:
   price: € 5,000
   offer:
-    - Banner sul sito
-    - Possibilità di tenere un talk tecnico (sono escluse le tematiche commerciali).
-      Il talk dovrà essere preapprovato dagli organizzatori.
-    - Pubblicità nelle comunicazioni pre-evento
-    - Autorizzazione a portare pubblicità e gadget (volantini, adesivi, magliette)
-    - Posizionamento del vostro roll-up nella sala
+    - Possibilità di tenere un talk tecnico (sono escluse le tematiche commerciali, il talk dovrà essere preapprovato dagli organizzatori)
+    - Invio di una DEM alla mailing list
+    - Accesso alla lista dei partecipanti alla conferenza
+    - Banchetto principale 2m x 1m 
+    - Posizionamento vostro roll-up in sala
+    - Logo sui roll-up dell'evento
+    - Autorizzazione a portare pubblicità e gadget (volantini, adesivi, magliette...)
+    - Logo nelle comunicazioni pre-evento (mail, social)
+    - Logo sul sito
     - 5 biglietti gratuiti
-    - Banchetto principale 2m x 1m in sala o nella hall
+    - 5 biglietti scontati del 50%
   max: 1
   list:
 
@@ -23,12 +26,14 @@ main:
 platinum:
   price: € 3,000
   offer:
-    - Banner sul sito
-    - Pubblicità nelle comunicazioni pre-evento
+    - Banchetto 1m x 1m 
+    - Posizionamento vostro roll-up in sala
+    - Logo sui roll-up dell'evento
     - Autorizzazione a portare pubblicità e gadget (volantini, adesivi, magliette)
-    - Posizionamento del vostro roll-up nella sala
-    - 4 biglietti gratuiti
-    - Banchetto 1m x 1m in sala o nella hall
+    - Logo nelle comunicazioni pre-evento (mail, social)
+    - Logo sul sito 
+    - 3 biglietti gratuiti
+    - 5 biglietti scontati del 15%
   max: 2
   list:
     -
@@ -36,13 +41,15 @@ platinum:
       image: ideato.svg
 
 gold:
-  price: € 1,000
+  price: € 1,500
   offer:
-    - Banner sul sito
-    - Pubblicità nelle comunicazioni pre-evento
+    - Posizionamento vostro roll-up in sala
+    - Logo sui roll-up dell'evento
     - Autorizzazione a portare pubblicità e gadget (volantini, adesivi, magliette)
-    - Posizionamento del vostro roll-up nella sala
-    - 3 biglietti gratuiti
+    - Logo nelle comunicazioni pre-evento (mail, social)
+    - Logo sul sito
+    - 2 biglietti gratuiti
+    - 3 biglietti scontati del 15%
   max: 8
   list:
     -
@@ -53,21 +60,22 @@ gold:
       image: kerning.svg
 
 silver:
-  price: € 500
+  price: € 750
   offer:
-    - Banner sul sito
-    - Pubblicità nelle comunicazioni pre-evento
+    - Logo sui roll-up dell'evento
     - Autorizzazione a portare pubblicità e gadget (volantini, adesivi, magliette)
-    - 2 biglietti gratuiti
+    - Logo nelle comunicazioni pre-evento (mail, social)
+    - Logo sul sito
+    - 1 biglietto gratuito
+    - 3 biglietti scontati del 10%
   max: 16
   list:
 
 bronze:
-  price: € 300
+  price: € 500
   offer:
-    - Banner sul sito
-    - Autorizzazione a portare pubblicità e gadget (volantini, adesivi, magliette)
-    - 1 biglietto gratuito
+    - Logo nelle comunicazioni pre-evento (mail, social)
+    - Logo sul sito
   max: 32
   list:
     -
