@@ -11,7 +11,7 @@ main:
     - Possibilità di tenere un talk tecnico (sono escluse le tematiche commerciali, il talk dovrà essere preapprovato dagli organizzatori)
     - Invio di una DEM alla mailing list
     - Accesso alla lista dei partecipanti alla conferenza
-    - Banchetto principale 2m x 1m 
+    - Banchetto principale 2m x 1m
     - Posizionamento vostro roll-up in sala
     - Logo sui roll-up dell'evento
     - Autorizzazione a portare pubblicità e gadget (volantini, adesivi, magliette...)
@@ -26,12 +26,12 @@ main:
 platinum:
   price: € 3,000
   offer:
-    - Banchetto 1m x 1m 
+    - Banchetto 1m x 1m
     - Posizionamento vostro roll-up in sala
     - Logo sui roll-up dell'evento
     - Autorizzazione a portare pubblicità e gadget (volantini, adesivi, magliette)
     - Logo nelle comunicazioni pre-evento (mail, social)
-    - Logo sul sito 
+    - Logo sul sito
     - 3 biglietti gratuiti
     - 5 biglietti scontati del 15%
   max: 2
@@ -70,6 +70,9 @@ silver:
     - 3 biglietti scontati del 10%
   max: 16
   list:
+    -
+      url: http://balsamiq.come
+      image: balsamiq.svg
 
 bronze:
   price: € 500
