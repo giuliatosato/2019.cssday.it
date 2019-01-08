@@ -11,6 +11,13 @@ list:
    first_name: Marco
    last_name: 	Cedaro
    twitter: cedmax
+ -
+   id: Giulia-Laco
+   description:
+   image: giulia-laco.jpg
+   first_name: Giulia
+   last_name: 	Laco
+   twitter: webmatter
 #  -
 #    id: Massimo-Artizzu
 #    description:
