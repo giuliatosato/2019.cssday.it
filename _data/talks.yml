@@ -1,20 +1,24 @@
 -
- speaker_id: Marco-Cedaro
- title: Componenti, pattern e altre robette non semplicissime da gestire
- keynote: true
- extract: >
+  speaker_id: Marco-Cedaro
+  title: Componenti, pattern e altre robette non semplicissime da gestire
+  keynote: true
+  extract: >
    Lavorare in un mondo di componenti è complesso. Tool, framework e design pattern l'hanno reso più accessibile, ma c'è ancora un passaggio che non è gestibile tramite codice: quand'è che un componente diventa un componente? Che valore semantico ha un pattern e come se ne riusa uno in uno scenario leggermente diverso, senza invalidare il concetto stesso di "pattern"? <br>Un talk che non si propone come soluzione, ma come guida per porre l'attenzione su un problema e capire cosa cerchiamo di fare quando ci sembra di martellare formine triangolari o quadrate in buchi evitendemente rotondi.
 -
- speaker_id: Giulia-Laco
- title: "Variable Fonts: il futuro della tipografia è già cominciato"
- keynote: false
- extract: >
-   L’innovativo formato di font che sta cambiando la storia della tipografia e del web design. Incredibilmente efficace in un’ottica di ottimizzazione della performance e della progettazione responsive, il formato ha potenzialità di utilizzo creativo che spaziano dalle interfacce digitali, all’animazione del testo, all’espressione del brand in modi nuovi, prima impensabili. In un unico file un armamentario tipografico che aspetta di essere usato.
-
-
-#-
-#  speaker_id: Massimo-Artizzu
-#  title: Griglie CSS - il futuro prossimo del layout
-#  keynote: false
-#  extract: >
-#    Siamo partiti dalle tabelle. Abbiamo arrancato coi float. Stiamo respirando con flexbox. Ma per i nostri layout in CSS alle porte ci sono le griglie, abilitate di default in Chrome e Firefox da marzo 2017. Vedremo cosa ci riserva uno dei moduli CSS più sofisticati e flessibili di sempre, che promette di risolvere tutti i (o buona parte dei) nostri problemi di layout. Partendo da una panoramica generale delle funzionalità, vedremo qualche esempio, come affrontare il problema del fallback e del supporto a vecchie specifiche (IE, Edge), e gli strumenti per uno sviluppo semplice.
+  speaker_id: Giulia-Laco
+  title: "Variable Fonts: il futuro della tipografia è già cominciato"
+  keynote: false
+  extract: >
+    L’innovativo formato di font che sta cambiando la storia della tipografia e del web design. Incredibilmente efficace in un’ottica di ottimizzazione della performance e della progettazione responsive, il formato ha potenzialità di utilizzo creativo che spaziano dalle interfacce digitali, all’animazione del testo, all’espressione del brand in modi nuovi, prima impensabili. In un unico file un armamentario tipografico che aspetta di essere usato.
+-
+  speaker_id: Antonio-Dell-Ava
+  title: "Un Approccio Frameworkless per Sviluppare la tua Single Page Application"
+  keynote: false
+  extract: >
+      I Design System uniscono i team attorno ad un linguaggio visivo e funzionale comune. Il talk introdurrà come svilupparli in team e applicarli nei tuoi progetti, con un approccio <i>frameworkless</i>.
+-
+  speaker_id: Massimo-Artizzu
+  title: "I trucchi di Houdini: la magia nel futuro del CSS"
+  keynote: false
+  extract: >
+    Quel banner viene fuori piuttosto blando. Quell'animazione va a scatti. Magari CSS Grid non ti basta più. CSS ha sempre avuto un'evoluzione lenta, per non parlare dell'adozione delle nuove specifiche, ma forse tutto questo finirà presto.  Houdini è un progetto che vuole esporre parti dei motori CSS per il nostro sviluppo, in modo da ottenere nuovi e performanti modi di estendere CSS. Faremo un hands-on sull'attuale stato dell'arte, per concludere con uno sguardo a cosa ci riserva il futuro.

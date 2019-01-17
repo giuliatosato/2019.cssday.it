@@ -18,10 +18,17 @@ list:
    first_name: Giulia
    last_name: 	Laco
    twitter: webmatter_it
-#  -
-#    id: Massimo-Artizzu
-#    description:
-#    image: artizzu.jpg
-#    first_name: Massimo
-#    last_name: 	Artizzu
-#    twitter: MaxArt2501
+ -
+   id: Antonio-Dell-Ava
+   description:
+   image: antonio-dell-ava.jpg
+   first_name: Antonio
+   last_name: 	Dell'Ava
+   twitter:
+ -
+   id: Massimo-Artizzu
+   description:
+   image: artizzu.jpg
+   first_name: Massimo
+   last_name: 	Artizzu
+   twitter: MaxArt2501
