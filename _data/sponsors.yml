@@ -39,6 +39,10 @@ platinum:
     -
       url: http://www.ideato.it
       image: ideato.svg
+    -
+      url: https://antreem.com/it/
+      image: antreem.svg
+      
 
 gold:
   price: € 1,500
