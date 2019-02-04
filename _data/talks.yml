@@ -22,3 +22,11 @@
   keynote: false
   extract: >
     Quel banner viene fuori piuttosto blando. Quell'animazione va a scatti. Magari CSS Grid non ti basta più. CSS ha sempre avuto un'evoluzione lenta, per non parlare dell'adozione delle nuove specifiche, ma forse tutto questo finirà presto.  Houdini è un progetto che vuole esporre parti dei motori CSS per il nostro sviluppo, in modo da ottenere nuovi e performanti modi di estendere CSS. Faremo un hands-on sull'attuale stato dell'arte, per concludere con uno sguardo a cosa ci riserva il futuro.
+-
+  speaker_id: Andrea-Decarolis
+  title: "Service worker - Out of the shadows"
+  extract: >
+    "Service worker non si fa mai vedere, non vuole riflettori addosso o prime pagine dei giornali. Lavora nell’ombra e qualcuno dice che potremmo anche farne a meno.
+    Ma quando un cattivo minaccia la nostra incolumità, quando non sappiamo più cosa fare e tutto sembra perduto, insomma quando non c’è connessione, eccolo che arriva a ristabilire l’ordine.
+    Introduzione al super eroe delle connessioni: parleremo delle sue origini, dei suoi modi di combattere i cattivi, delle sue armi speciali e di come chiamarlo usando il suo segnale segreto.
+    ...Perché piuttosto che parlare con la signora in treno seduta davanti a me, imparo a scrivere JavaScript."

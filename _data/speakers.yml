@@ -32,3 +32,10 @@ list:
    first_name: Massimo
    last_name: 	Artizzu
    twitter: MaxArt2501
+ -
+   id: Andrea-Decarolis
+   description:
+   image: andrea-decarolis.jpg
+   first_name: Andrea
+   last_name: 	De Carolis
+   twitter: decarola
