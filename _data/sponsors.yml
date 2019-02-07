@@ -21,7 +21,9 @@ main:
     - 5 biglietti scontati del 50%
   max: 1
   list:
-
+    -
+      url: https://www.liferay.com/it/home/?utm_source=cssday2019
+      image: liferay.svg
 
 platinum:
   price: € 3,000
@@ -42,7 +44,7 @@ platinum:
     -
       url: https://antreem.com/it/
       image: antreem.svg
-      
+
 
 gold:
   price: € 1,500
