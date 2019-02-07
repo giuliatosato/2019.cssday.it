@@ -30,3 +30,20 @@
     Ma quando un cattivo minaccia la nostra incolumità, quando non sappiamo più cosa fare e tutto sembra perduto, insomma quando non c’è connessione, eccolo che arriva a ristabilire l’ordine.
     Introduzione al super eroe delle connessioni: parleremo delle sue origini, dei suoi modi di combattere i cattivi, delle sue armi speciali e di come chiamarlo usando il suo segnale segreto.
     ...Perché piuttosto che parlare con la signora in treno seduta davanti a me, imparo a scrivere JavaScript."
+-
+  speaker_id: Carmine-Alfano
+  title: Breaking Blank
+  extract: >
+    "Con l’introduzione e il miglioramento di alcuni strumenti come SVG filters, clipping-mask, mask-image, shapes, text module level 3 e tanti altri, i CSS si stanno avvicinando sempre più ai software per la grafica editoriale. In questa sessione scopriremo come sfruttare alcuni superpoteri di CSS per realizzare dei layout straordinari!"
+
+-
+  speaker_id: Andrea-Gadaldi
+  title: "Grid in production: a true story"
+  extract: >
+    "Grid in produzione tra IE, Edge e refactoring iterativo di una codebase legacy. E tante altre parolone interessanti."
+
+-
+  speaker_id: Matteo-Guidotto
+  title: Take take of your pixel
+  extract: >
+    "inseguiamo framework, aggiornamenti, poche righe di codice per fare grandi cose per l'umanità, dimenticandoci dell'umanità, dei disturbi visivi, delle differenti connessioni in giro per il mondo, di come le persone interagiscono con le nostre interfacce, è tempo di ricordarcelo"

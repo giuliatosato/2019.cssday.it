@@ -5,7 +5,7 @@ url: http://2019.cssday.it
 where_when: Faenza, 14-15 Marzo 2019
 year: 2019
 since: 2015
-show_talks: false
+show_talks: true
 show_schedule: false
 show_workshop: true
 googletagmanager: UA-111695734-1

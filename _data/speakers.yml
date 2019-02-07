@@ -39,3 +39,31 @@ list:
    first_name: Andrea
    last_name: 	De Carolis
    twitter: decarola
+ -
+   id: Carmine-Alfano
+   description:
+   image: carmine-alfano.jpg
+   first_name: Carmine
+   last_name: Alfano
+   twitter: razzullo
+ -
+   id: Andrea-Gadaldi
+   description:
+   image: andrea-gadaldi.jpg
+   first_name: Andrea
+   last_name: Gadaldi
+   twitter: mrbeastcorp
+ -
+   id: Matteo-Guidotto
+   description:
+   image: matteo-guidotto.jpg
+   first_name: Matteo
+   last_name: Guidotto
+   twitter: j8matteo
+ # -
+ #   id:
+ #   description:
+ #   image:
+ #   first_name:
+ #   last_name:
+ #   twitter:
