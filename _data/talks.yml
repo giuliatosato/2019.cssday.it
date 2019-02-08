@@ -43,7 +43,9 @@
     "Grid in produzione tra IE, Edge e refactoring iterativo di una codebase legacy. E tante altre parolone interessanti."
 
 -
-  speaker_id: Matteo-Guidotto
-  title: Take take of your pixel
+  speaker_id:  
+  - Matteo-Guidotto
+  - Davide Di Pumpo
+  title: Take care of your pixel
   extract: >
-    "inseguiamo framework, aggiornamenti, poche righe di codice per fare grandi cose per l'umanità, dimenticandoci dell'umanità, dei disturbi visivi, delle differenti connessioni in giro per il mondo, di come le persone interagiscono con le nostre interfacce, è tempo di ricordarcelo"
+    "Inseguiamo framework, aggiornamenti, poche righe di codice per fare grandi cose per l'umanità, dimenticandoci dell'umanità, dei disturbi visivi, delle differenti connessioni in giro per il mondo, di come le persone interagiscono con le nostre interfacce, è tempo di ricordarcelo"
