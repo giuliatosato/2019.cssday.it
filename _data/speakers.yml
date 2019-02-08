@@ -60,6 +60,14 @@ list:
    first_name: Matteo
    last_name: Guidotto
    twitter: j8matteo
+  -
+   id: Davide-Dipumpo
+   description:
+   image: davide-dipumpo.jpg
+   first_name: Davide
+   last_name: Di Pumpo
+   twitter: MakhBeth
+   
  # -
  #   id:
  #   description:
