@@ -67,6 +67,13 @@ list:
    first_name: Davide
    last_name: Di Pumpo
    twitter: MakhBeth
+  -
+   id: Giacomo-Zinetti
+   description:
+   image: giacomo-zinetti.jpg
+   first_name: Giacomo
+   last_name: Zinetti
+   twitter: gcmznt
    
  # -
  #   id:
