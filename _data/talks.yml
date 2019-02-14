@@ -49,3 +49,12 @@
   title: Take care of your pixel
   extract: >
     "Inseguiamo framework, aggiornamenti, poche righe di codice per fare grandi cose per l'umanità, dimenticandoci dell'umanità, dei disturbi visivi, delle differenti connessioni in giro per il mondo, di come le persone interagiscono con le nostre interfacce, è tempo di ricordarcelo"
+
+- 
+  speaker_id:  
+  - Giacomo-Zinetti
+  title: La fine delle media query? 
+  extract: >
+  "Vi ricordate quei bellissimi numeri magici? 960 x 600? E poi? E poi, puff... arrivò il Responsive Web Design che insieme all’approccio mobile first cambiò tutto... o quasi! Oggi la cintura degli attrezzi di un frontendista è diventata talmente ricca che ogni tanto ci serve far ordine e pulizia per cercare di capire come gli strumenti possano darci il loro meglio.
+Proviamo quindi a capire come nel 2019 possiamo implementare e sviluppare al meglio tutti questi concetti per poter migliorare i nostri rapporti con i designer del team."
+
